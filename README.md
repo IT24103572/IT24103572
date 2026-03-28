@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Naveesha Abeywardana 👋
 
-<!--
-**IT24103572/IT24103572** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year IT Undergraduate at Sri Lanka Institute of Information Technology (SLIIT)  
+💻 Interested in Web Development & Software Engineering  
+🌱 Currently learning Java, JavaScript, and Databases  
+🎯 Looking for Internship Opportunities  
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Programming: Java, Python  
+- Web: HTML, CSS, JavaScript  
+- Database: MySQL, Mongodb
+- Tools: Git, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- Parking Reservation Project  
+- Web Application Project  
+- Chocolate Customise Project  
+
+## 📫 Contact Me
+- Email: tharushinaveesha22@gmail.com  
+- LinkedIn: www.linkedin.com/in/naveesha-abeywardana-59b49a384 
