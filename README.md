@@ -1,6 +1,6 @@
-# Hi, I'm Tharushi 👋
+# Hi, I'm  👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Tharushi%20Naveesha&fontSize=30&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Naveesha%20Abeywardana&fontSize=30&fontColor=ffffff)
 
 🎓 2nd Year BSc (Hons) Information Technology Undergraduate  
 🏫 Sri Lanka Institute of Information Technology (SLIIT)  
@@ -28,14 +28,6 @@
 🔹 Database Management System  
 
 *(More projects coming soon...)*
-
----
-
-## 📊 GitHub Stats
-
-![Tharushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT24103572&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IT24103572&layout=compact&theme=tokyonight)
 
 ---
 
