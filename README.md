@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Naveesha%20Abeywardana&fontSize=30&fontColor=ffffff)
 
-🎓 2nd Year BSc (Hons) Information Technology Undergraduate  
+🎓 3rd Year BSc (Hons) Information Technology Undergraduate  
 🏫 Sri Lanka Institute of Information Technology (SLIIT)  
 💻 Passionate about Web Development & Software Engineering  
 🌱 Currently learning Java, JavaScript & Databases  
@@ -23,9 +23,17 @@
 
 ## 🚀 Projects
 
-🔹 Student Management System  
-🔹 Web Application Project  
-🔹 Database Management System  
+🔹 Chocolate Customization Management System
+https://github.com/JayaniIresha/Choco-Craft1.git
+
+🔹 Vehicle Rental System  
+https://github.com/IT24102354/Vehicle-Rental-System.git
+
+🔹 Parking Reservation System 
+ https://github.com/it24103507/SE-2025_Y2_S1_MLB_B13G1_02.git   
+
+🔹 Ride Link
+https://github.com/chathuchamodika/IT3130-RideLink.git
 
 *(More projects coming soon...)*
 
