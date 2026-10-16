@@ -20,18 +20,23 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 💻 Languages: 
+
  Java, Python, C, JavaScript, TypeScript, SQL, HTML, CSS 
  
 ⚙️ Frameworks & Libraries: 
+
  Spring Boot, Spring Data JPA, React, Node.js, Express.js, Thymeleaf, Tailwind CSS, Bootstrap
 
 🗄️ Databases: 
+
 MySQL, Microsoft SQL Server, MongoDB
 
 🧠 Core Concepts: 
+
 Data Structures & Algorithms, Object-Oriented Programming, Web Development 
 
 🔧 Tools: 
+
 Git, GitHub
 
 ---
