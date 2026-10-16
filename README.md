@@ -26,11 +26,11 @@
 🔹 Chocolate Customization Management System
 https://github.com/JayaniIresha/Choco-Craft1.git
 
-🔹 Vehicle Rental System  
+🔹 Vehicle Rental System
 https://github.com/IT24102354/Vehicle-Rental-System.git
 
-🔹 Parking Reservation System 
- https://github.com/it24103507/SE-2025_Y2_S1_MLB_B13G1_02.git   
+🔹 Parking Reservation System
+https://github.com/it24103507/SE-2025_Y2_S1_MLB_B13G1_02.git   
 
 🔹 Ride Link
 https://github.com/chathuchamodika/IT3130-RideLink.git
